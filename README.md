@@ -1,2 +1,4 @@
 # CSC154_EmmaJohnson
-# Welcome to Branch1
+
+Welcome to Branch 1
+Hello Branch 2!
